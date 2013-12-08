@@ -9,7 +9,7 @@ It is intended to act as a curatorial tool to manage the mapping of two RDF data
 
 This software is no longer in active development, it was built specifically for the linked jazz project and is being published to document our process and inform any questions about the project.
 
-Refactored open source versions this tool is in development and will launched in 2014.
+Refactored open source versions this tool is in development and will launch in 2014.
 
 ---
 
@@ -36,3 +36,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+---
+* This project utilizes libraries which may or may not have additional individual licenses
